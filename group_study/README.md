@@ -1,6 +1,5 @@
 # Algorithms and Data Structures: Group Study
-
-<!-- group norms summary -->
+Group norm summary
 
 - Conduct at least one weekly group meeting.
 - Be punctual for meetings.
