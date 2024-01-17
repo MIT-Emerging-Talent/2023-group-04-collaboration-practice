@@ -17,9 +17,9 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day            | How     | The topic of discussion |
+| Friday 01/12/24| slack   | norm of group           |
+||    |                         |
 
 ## Communication Channels
 
