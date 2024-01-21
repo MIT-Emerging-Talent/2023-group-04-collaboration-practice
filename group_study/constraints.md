@@ -13,7 +13,7 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 - different time zones
-- 
+- Holidays 
 ## Internal: Involuntary
 
 <!--
