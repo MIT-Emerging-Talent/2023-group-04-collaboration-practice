@@ -12,7 +12,8 @@ Some boundaries around our project.
   - number of unit tests required to pass a code review
   - technologies (sometimes a client will tell you what to use)
 -->
-
+- different time zones
+- 
 ## Internal: Involuntary
 
 <!--
@@ -20,7 +21,8 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
-
+- Skill diversity
+- Availability 
 ## Internal: Voluntary
 
 <!--
