@@ -19,7 +19,8 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| 13 Jan |  slack  | Getting to know each other and creating the norms of the group |
+| 20 Jan |  slack  | discussing the project |
 
 ## Communication Channels
 
@@ -39,11 +40,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _Mahnaz_ | 11 - 15 | 11 - 14|  11 - 14 | - | 11 - 15| 10 - 18  | 10 - 13 |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Mahnaz: _3h_;
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
