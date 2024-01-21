@@ -28,7 +28,7 @@ class TestHowSumBasic(unittest.TestCase):
     def test_positive_2(self):
         target = 9
         numbers = [3, 8, 6]
-        expected = [[3, 3, 3], [3, 9]]
+        expected = [[3, 3, 3], [3, 6]]
         result = how_sum_basic(target, numbers)
 
         self.assertTrue(any([result == elem for elem in expected]))
@@ -58,7 +58,7 @@ class TestHowSumMemo(unittest.TestCase):
     def test_positive_2(self):
         target = 9
         numbers = [3, 8, 6]
-        expected = [[3, 3, 3], [3, 9]]
+        expected = [[3, 3, 3], [3, 6]]
         result = how_sum_memo(target, numbers, {})
 
         self.assertTrue(any([result == elem for elem in expected]))
