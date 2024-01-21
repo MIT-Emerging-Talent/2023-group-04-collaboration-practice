@@ -11,8 +11,16 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
-
+-Conduct at least one weekly group meeting.
+- Be punctual for meetings.
+- Actively participate in meetings and discussions.
+- Proactively engage with assignments.
+- Show respect for each other's gender, ethnicity, and culture.
+- Contribute to homework assignments.
+- Actively review and provide feedback on team members' work.
+- Keep our main Slack channel updated with meeting summaries and progress.
+- Maintain our GitHub channel with relevant updates.
+- Define agendas for the upcoming week in advance.
 ---
 
 ## Communication Schedule
@@ -41,7 +49,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _Mahnaz_ | 11 - 15 | 11 - 14|  11 - 14 | - | 11 - 15| 10 - 18  | 10 - 13 |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Hanamariam | 18 - 22 | 18 - 22 |  18 - 22 | 18 - 22  | 18 - 22 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
@@ -52,7 +60,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Mahnaz: _3h_;
 - name: _6h_;
 - name: _5h_;
-- name: _4h_;
+- Hanamariam: _4h_;
 - name: _3h_;
 
 ## Asking for Help
