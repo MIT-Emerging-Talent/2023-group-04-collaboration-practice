@@ -29,7 +29,7 @@
 | --- | :-: | ----------------------- |
 | 13 Jan |  slack  | Getting to know each other and creating the norms of the group |
 | 20 Jan |  slack  | discussing the project |
-| 
+| 26 Jan | slack or whatsapp | Discussing the project question and the next milestone |
 
 ## Communication Channels
 
@@ -53,7 +53,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Hanamariam | 18 - 22 | 18 - 22 |  18 - 22 | 18 - 22  | 18 - 22 | 13 - 20  | 13 - 20 |
 | _Zainab (EST)_ | 12 - 13 | 16 - 17 |  12 - 13  | 16 - 17  | 10 - 13 | 10 - 13  | 10 - 13 |
 | _Rohollah (PT)_ | 18 - 20 | 18 - 20 |  18 - 20  | 18 - 20  | 13 - 20 | 09 - 20  | 09 - 20 |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _Mahdi (KBL_TIME_ |  -  |  -  |   -   | 20 - 23  | 20 - 23 | 13 - 20  | 18 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day:
@@ -62,7 +62,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Zainab: _3h_;
 - Rohollah: _3h_;
 - Hanamariam: _4h_;
-- name: _3h_;
+- Mahdi: _3h_;
 
 ## Asking for Help
 
