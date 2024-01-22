@@ -21,7 +21,8 @@
 - Ask for help from my teammates when I needed help or feedback.
 
   ## Hanamariam - individual
-  -learn how github works and make use of it.
+  
+   -learn how github works and make use of it.
   - improve my skills on collaborative and working with team.
   - learn how to develop and implement project.
   
