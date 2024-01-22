@@ -29,6 +29,7 @@
 | --- | :-: | ----------------------- |
 | 13 Jan |  slack  | Getting to know each other and creating the norms of the group |
 | 20 Jan |  slack  | discussing the project |
+| 
 
 ## Communication Channels
 
@@ -50,7 +51,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _Mahnaz_ | 11 - 15 | 11 - 14|  11 - 14 | - | 11 - 15| 10 - 18  | 10 - 13 |
 | Hanamariam | 18 - 22 | 18 - 22 |  18 - 22 | 18 - 22  | 18 - 22 | 13 - 20  | 13 - 20 |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _Zainab (EST)_ | 12 - 13 | 16 - 17 |  12 - 13  | 16 - 17  | 10 - 13 | 10 - 13  | 10 - 13 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
@@ -58,7 +59,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day:
 
 - Mahnaz: _3h_;
-- name: _6h_;
+- Zainab: _3h_;
 - name: _5h_;
 - Hanamariam: _4h_;
 - name: _3h_;
